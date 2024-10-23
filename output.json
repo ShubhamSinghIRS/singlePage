@@ -1,0 +1,111 @@
+{
+  "Automotives & Auto Components Manufacturing": {
+    "Functional": [
+      ["Global Supply Chain Optimization in Automotive", "15", "Personal", "87"],
+      ["Automotive Market Intelligence & Consumer Insights", "12", "Personal", "65"],
+      ["Advanced Automotive Product Lifecycle Management", "18", "Personal", "92"],
+      ["Regulatory Compliance and Homologation Processes", "10", "Personal", "45"],
+      ["Global Sourcing Strategies and Vendor Management", "16", "Personal", "78"],
+      ["Automotive Digital Marketing and E-Commerce", "14", "Personal", "56"],
+      ["Dealer Network Management and Performance Optimization", "11", "Personal", "83"],
+      ["Financial Risk Management", "17", "Personal", "71"]
+    ],
+    "Technical": [
+      ["Automotive Engineering Fundamentals", "13", "Personal", "94"],
+      ["Autonomous Driving Systems", "18", "Personal", "88"],
+      ["Precision Manufacturing Techniques", "15", "Personal", "67"],
+      ["Automotive Software and Connectivity Solutions", "12", "Personal", "75"],
+      ["3D Printing in Auto Parts Manufacturing", "16", "Personal", "82"],
+      ["Advanced Driver Assistance Systems (ADAS)", "14", "Personal", "59"],
+      ["Quality Assurance in Automotive Manufacturing", "11", "Personal", "91"],
+      ["Electric Vehicles (EV) Technology", "17", "Personal", "86"]
+    ]
+  },
+  "Food & Beverages - FMCG/ Staples": {
+    "Functional": [
+      ["Supply Chain Optimization in FMCG", "16", "Personal", "72"],
+      ["Consumer Behavior and Market Insights", "13", "Personal", "88"],
+      ["Product Innovation and Development", "15", "Personal", "63"],
+      ["Regulatory Compliance in Food Industry", "18", "Personal", "95"],
+      ["Procurement and Vendor Management", "11", "Personal", "54"],
+      ["Sales and Distribution Strategies", "14", "Personal", "79"],
+      ["Brand Management and Marketing", "17", "Personal", "68"],
+      ["Inventory and Warehouse Management", "12", "Personal", "83"]
+    ],
+    "Technical": [
+      ["Food Technology and Processing", "15", "Personal", "91"],
+      ["Packaging Innovations", "18", "Personal", "76"],
+      ["Automation in FMCG Manufacturing", "12", "Personal", "85"],
+      ["Supply Chain Analytics", "16", "Personal", "69"],
+      ["Cold Chain Logistics", "13", "Personal", "94"],
+      ["Quality Control Technologies", "17", "Personal", "57"],
+      ["Food Safety Management Systems", "14", "Personal", "82"],
+      ["Data Analytics in FMCG", "11", "Personal", "73"]
+    ]
+  },
+  "Textiles and Apparel": {
+    "Functional": [
+      ["Textile Production and Manufacturing", "17", "Personal", "88"],
+      ["Fashion Retail Management", "14", "Personal", "65"],
+      ["Supply Chain Management in Apparel", "12", "Personal", "93"],
+      ["Sustainable Practices in Textiles", "15", "Personal", "77"],
+      ["Fabric Quality Control and Testing", "18", "Personal", "84"],
+      ["Inventory and Warehousing Management", "13", "Personal", "69"],
+      ["Global Sourcing and Procurement", "16", "Personal", "91"],
+      ["Cost Management in Apparel Production", "11", "Personal", "58"]
+    ],
+    "Technical": [
+      ["Computer-Aided Design for Fashion", "15", "Personal", "86"],
+      ["Garment Manufacturing Techniques", "18", "Personal", "73"],
+      ["Quality Management Systems", "13", "Personal", "95"],
+      ["Automation in Textile Production", "16", "Personal", "67"],
+      ["Sustainable Fabric Technology", "12", "Personal", "89"],
+      ["Dyeing and Printing Techniques", "17", "Personal", "78"],
+      ["Digital Tools in Apparel Supply Chain", "14", "Personal", "92"],
+      ["Textile Technology Innovations", "11", "Personal", "81"]
+    ]
+  },
+  "Healthcare and Pharmaceuticals": {
+    "Functional": [
+      ["Pharmaceutical Supply Chain Management", "16", "Personal", "85"],
+      ["Healthcare Quality Management Systems", "13", "Personal", "92"],
+      ["Regulatory Compliance in Pharmaceuticals", "18", "Personal", "78"],
+      ["Clinical Trial Management", "15", "Personal", "95"],
+      ["Healthcare Marketing and Distribution", "12", "Personal", "67"],
+      ["Patient Care Management Systems", "17", "Personal", "88"],
+      ["Pharmaceutical Product Development", "14", "Personal", "73"],
+      ["Healthcare Facility Management", "11", "Personal", "82"]
+    ],
+    "Technical": [
+      ["Pharmaceutical Manufacturing Technologies", "15", "Personal", "91"],
+      ["Medical Device Technology", "18", "Personal", "86"],
+      ["Drug Development and Testing", "13", "Personal", "94"],
+      ["Healthcare Data Analytics", "16", "Personal", "77"],
+      ["Laboratory Management Systems", "12", "Personal", "89"],
+      ["Quality Control in Drug Manufacturing", "17", "Personal", "83"],
+      ["Biotech Manufacturing Processes", "14", "Personal", "96"],
+      ["Healthcare IT Systems", "11", "Personal", "79"]
+    ],
+    "Strategy": [
+      ["Strategic Planning in Healthcare", "17", "Personal", "88"],
+      ["Healthcare Innovation Management", "14", "Personal", "93"],
+      ["Digital Transformation in Healthcare", "16", "Personal", "75"],
+      ["Risk Management in Pharmaceuticals", "13", "Personal", "87"],
+      ["Healthcare Market Access Strategy", "18", "Personal", "92"],
+      ["Corporate Governance in Healthcare", "15", "Personal", "84"],
+      ["Global Healthcare Market Trends", "12", "Personal", "76"],
+      ["Healthcare Business Development", "11", "Personal", "89"]
+    ],
+    "Personal": [
+      ["Financial Management for Healthcare Leaders", "16", "Personal", "81"],
+      ["Leadership Skills in Healthcare", "13", "Personal", "94"],
+      ["Healthcare Executive Communication", "15", "Personal", "77"],
+      ["Work-Life Balance in Healthcare", "18", "Personal", "86"],
+      ["Stress Management for Medical Professionals", "12", "Personal", "92"],
+      ["Personal Branding in Healthcare", "17", "Personal", "79"],
+      ["Emotional Intelligence for Healthcare Leaders", "14", "Personal", "88"],
+      ["Time Management in Healthcare", "11", "Personal", "83"]
+    ],
+    "Site-Visits": ["Global Facility", "Domestic Facility"]
+  }
+}
