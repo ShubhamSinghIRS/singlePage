@@ -19,6 +19,16 @@
       ["Advanced Driver Assistance Systems (ADAS)", "14", "Personal", "59"],
       ["Quality Assurance in Automotive Manufacturing", "11", "Personal", "91"],
       ["Electric Vehicles (EV) Technology", "17", "Personal", "86"]
+    ],
+    "Strategy": [
+      ["Computer-Aided Design for Fashion", "15", "Personal", "86"],
+      ["Garment Manufacturing Techniques", "18", "Personal", "73"],
+      ["Quality Management Systems", "13", "Personal", "95"],
+      ["Automation in Textile Production", "16", "Personal", "67"],
+      ["Sustainable Fabric Technology", "12", "Personal", "89"],
+      ["Dyeing and Printing Techniques", "17", "Personal", "78"],
+      ["Digital Tools in Apparel Supply Chain", "14", "Personal", "92"],
+      ["Textile Technology Innovations", "11", "Personal", "81"]
     ]
   },
   "Food & Beverages - FMCG/ Staples": {
@@ -63,49 +73,16 @@
       ["Dyeing and Printing Techniques", "17", "Personal", "78"],
       ["Digital Tools in Apparel Supply Chain", "14", "Personal", "92"],
       ["Textile Technology Innovations", "11", "Personal", "81"]
-    ]
-  },
-  "Healthcare and Pharmaceuticals": {
-    "Functional": [
-      ["Pharmaceutical Supply Chain Management", "16", "Personal", "85"],
-      ["Healthcare Quality Management Systems", "13", "Personal", "92"],
-      ["Regulatory Compliance in Pharmaceuticals", "18", "Personal", "78"],
-      ["Clinical Trial Management", "15", "Personal", "95"],
-      ["Healthcare Marketing and Distribution", "12", "Personal", "67"],
-      ["Patient Care Management Systems", "17", "Personal", "88"],
-      ["Pharmaceutical Product Development", "14", "Personal", "73"],
-      ["Healthcare Facility Management", "11", "Personal", "82"]
-    ],
-    "Technical": [
-      ["Pharmaceutical Manufacturing Technologies", "15", "Personal", "91"],
-      ["Medical Device Technology", "18", "Personal", "86"],
-      ["Drug Development and Testing", "13", "Personal", "94"],
-      ["Healthcare Data Analytics", "16", "Personal", "77"],
-      ["Laboratory Management Systems", "12", "Personal", "89"],
-      ["Quality Control in Drug Manufacturing", "17", "Personal", "83"],
-      ["Biotech Manufacturing Processes", "14", "Personal", "96"],
-      ["Healthcare IT Systems", "11", "Personal", "79"]
     ],
     "Strategy": [
-      ["Strategic Planning in Healthcare", "17", "Personal", "88"],
-      ["Healthcare Innovation Management", "14", "Personal", "93"],
-      ["Digital Transformation in Healthcare", "16", "Personal", "75"],
-      ["Risk Management in Pharmaceuticals", "13", "Personal", "87"],
-      ["Healthcare Market Access Strategy", "18", "Personal", "92"],
-      ["Corporate Governance in Healthcare", "15", "Personal", "84"],
-      ["Global Healthcare Market Trends", "12", "Personal", "76"],
-      ["Healthcare Business Development", "11", "Personal", "89"]
-    ],
-    "Personal": [
-      ["Financial Management for Healthcare Leaders", "16", "Personal", "81"],
-      ["Leadership Skills in Healthcare", "13", "Personal", "94"],
-      ["Healthcare Executive Communication", "15", "Personal", "77"],
-      ["Work-Life Balance in Healthcare", "18", "Personal", "86"],
-      ["Stress Management for Medical Professionals", "12", "Personal", "92"],
-      ["Personal Branding in Healthcare", "17", "Personal", "79"],
-      ["Emotional Intelligence for Healthcare Leaders", "14", "Personal", "88"],
-      ["Time Management in Healthcare", "11", "Personal", "83"]
-    ],
-    "Site-Visits": ["Global Facility", "Domestic Facility"]
+      ["Computer-Aided Design for Fashion", "15", "Personal", "86"],
+      ["Garment Manufacturing Techniques", "18", "Personal", "73"],
+      ["Quality Management Systems", "13", "Personal", "95"],
+      ["Automation in Textile Production", "16", "Personal", "67"],
+      ["Sustainable Fabric Technology", "12", "Personal", "89"],
+      ["Dyeing and Printing Techniques", "17", "Personal", "78"],
+      ["Digital Tools in Apparel Supply Chain", "14", "Personal", "92"],
+      ["Textile Technology Innovations", "11", "Personal", "81"]
+    ]
   }
 }

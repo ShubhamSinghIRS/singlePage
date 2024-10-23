@@ -6,8 +6,8 @@ export default defineConfig({
   plugins: [react(), viteSingleFile()],
   build: {
     target: "esnext",
-    assetsInlineLimit: 100000000,
-    chunkSizeWarningLimit: 100000000,
+    assetsInlineLimit: 10000000000,
+    chunkSizeWarningLimit: 10000000000,
     cssCodeSplit: false,
     brotliSize: false,
     rollupOptions: {
