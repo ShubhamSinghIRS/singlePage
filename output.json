@@ -1,88 +1,1514 @@
 {
   "Automotives & Auto Components Manufacturing": {
     "Functional": [
-      ["Global Supply Chain Optimization in Automotive", "15", "Personal", "87"],
-      ["Automotive Market Intelligence & Consumer Insights", "12", "Personal", "65"],
-      ["Advanced Automotive Product Lifecycle Management", "18", "Personal", "92"],
-      ["Regulatory Compliance and Homologation Processes", "10", "Personal", "45"],
-      ["Global Sourcing Strategies and Vendor Management", "16", "Personal", "78"],
-      ["Automotive Digital Marketing and E-Commerce", "14", "Personal", "56"],
-      ["Dealer Network Management and Performance Optimization", "11", "Personal", "83"],
-      ["Financial Risk Management", "17", "Personal", "71"]
+      [
+        "Global Supply Chain Optimization in Automotive",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Automotive Market Intelligence & Consumer Insights",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Advanced Automotive Product Lifecycle Management",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Sustainable Energy Management in Auto Manufacturing",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Global Sourcing Strategies and Vendor Management",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Lean Six Sigma for Automotive Excellence",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Strategic Cost Management in EV Manufacturing",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Data-Driven Sales Optimization in Automotive",
+        "4",
+        "Personal",
+        "500"
+      ]
     ],
     "Technical": [
-      ["Automotive Engineering Fundamentals", "13", "Personal", "94"],
-      ["Autonomous Driving Systems", "18", "Personal", "88"],
-      ["Precision Manufacturing Techniques", "15", "Personal", "67"],
-      ["Automotive Software and Connectivity Solutions", "12", "Personal", "75"],
-      ["3D Printing in Auto Parts Manufacturing", "16", "Personal", "82"],
-      ["Advanced Driver Assistance Systems (ADAS)", "14", "Personal", "59"],
-      ["Quality Assurance in Automotive Manufacturing", "11", "Personal", "91"],
-      ["Electric Vehicles (EV) Technology", "17", "Personal", "86"]
+      [
+        "Autonomous driving system",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Edge Computing in Automotive Embedded Systems",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Advanced ADAS and Safety Protocol Development",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Advanced Robotics and AI in Assembly Line Automation",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Battery Management System (BMS) Optimization with Simcenter Amesim",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Zero-Defect Manufacturing through Digital Twins",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Automotive Software and Connectivity Solutions",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Vehicle Dynamics Simulation and Testing Using Adams Car",
+        "5",
+        "Personal",
+        "600"
+      ]
     ],
     "Strategy": [
-      ["Computer-Aided Design for Fashion", "15", "Personal", "86"],
-      ["Garment Manufacturing Techniques", "18", "Personal", "73"],
-      ["Quality Management Systems", "13", "Personal", "95"],
-      ["Automation in Textile Production", "16", "Personal", "67"],
-      ["Sustainable Fabric Technology", "12", "Personal", "89"],
-      ["Dyeing and Printing Techniques", "17", "Personal", "78"],
-      ["Digital Tools in Apparel Supply Chain", "14", "Personal", "92"],
-      ["Textile Technology Innovations", "11", "Personal", "81"]
+      [
+        "Strategic Forecasting for Disruptive Auto Markets",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Digital Ecosystem Strategy for Automotive Transformation",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Future-Proofing Automotive Businesses",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Leadership in Circular Economy for Automotive",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Customer Centricity and Experience Strategy",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Cross-Functional Leadership for Product Development",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Strategic Risk Management in EV Transition",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Capital Investment Planning for Global Operations",
+        "4",
+        "Personal",
+        "400"
+      ]
+    ],
+    "Personal": [
+      [
+        "Capital Allocation for Growth Initiatives",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Succession Planning and Family Governance",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Advanced Negotiation Tactics in Supplier Management",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Networking and Relationship Building in Automotive",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Crisis Management Skills for Manufacturers",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Developing Financial Acumen",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Risk and Asset Management",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Personal Wealth and Portfolio Management",
+        "4",
+        "Personal",
+        "400"
+      ]
+    ],
+    "Knowledge Tours": [
+      [
+        "Domestic",
+        "16",
+        "-",
+        "400"
+      ],
+      [
+        "International",
+        "16",
+        "-",
+        "800"
+      ]
     ]
   },
   "Food & Beverages - FMCG/ Staples": {
     "Functional": [
-      ["Supply Chain Optimization in FMCG", "16", "Personal", "72"],
-      ["Consumer Behavior and Market Insights", "13", "Personal", "88"],
-      ["Product Innovation and Development", "15", "Personal", "63"],
-      ["Regulatory Compliance in Food Industry", "18", "Personal", "95"],
-      ["Procurement and Vendor Management", "11", "Personal", "54"],
-      ["Sales and Distribution Strategies", "14", "Personal", "79"],
-      ["Brand Management and Marketing", "17", "Personal", "68"],
-      ["Inventory and Warehouse Management", "12", "Personal", "83"]
+      [
+        "AI-Driven Demand Forecasting and Consumer Trends",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Global Distribution and Strategic Market Expansion",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Product Lifecycle Sustainability for FMCG",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Omnichannel Sales Optimization and Analytics",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Advanced Production Scheduling and Resource Allocation",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Supply Chain Optimization in FMCG",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Procurement and Vendor Management in FMCG",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Quality Assurance and Control in Food Processing",
+        "4",
+        "Personal",
+        "500"
+      ]
     ],
     "Technical": [
-      ["Food Technology and Processing", "15", "Personal", "91"],
-      ["Packaging Innovations", "18", "Personal", "76"],
-      ["Automation in FMCG Manufacturing", "12", "Personal", "85"],
-      ["Supply Chain Analytics", "16", "Personal", "69"],
-      ["Cold Chain Logistics", "13", "Personal", "94"],
-      ["Quality Control Technologies", "17", "Personal", "57"],
-      ["Food Safety Management Systems", "14", "Personal", "82"],
-      ["Data Analytics in FMCG", "11", "Personal", "73"]
+      [
+        "Food Safety and Traceability with FoodLogiQ",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Predictive Maintenance for Production Lines with IBM Watson IoT",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Nutritional Data Management and Label Compliance with Genesis R&D",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Automation in Packaging Operations with ABB Robots",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Blockchain-Enabled Traceability Solutions for Food Supply Chain",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Smart Manufacturing Execution with Rockwell Automation MES",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Food Safety and Traceability with FoodLogiQ",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Cold Chain Monitoring and Management with IoT Sensor Systems",
+        "5",
+        "Personal",
+        "600"
+      ]
+    ],
+    "Strategy": [
+      [
+        "Market Differentiation Strategy in Saturated FMCG Sectors",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Digital Disruption and Transformation in FMCG",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Strategic Crisis Management for Food Safety Issues",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Leadership in Circular Economy and Resource Efficiency",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Cross-Cultural Leadership for Global Expansion",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Market Penetration and Diversification in Emerging Markets",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Product Innovation Strategy for Competitive Advantage",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Driving Sustainability as a Business Leader",
+        "4",
+        "Personal",
+        "400"
+      ]
+    ],
+    "Personal": [
+      [
+        "Financial Management and Capital Allocation",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Wealth and Asset Management for Family-Owned FMCGs",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Leadership Skills in Family-Run Businesses",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Networking for Market Expansion",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Building Resilience in Fast-Paced Environments",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Crisis Management and Recovery",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Developing Strategic Thinking",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Governance and Compliance in Family Businesses",
+        "4",
+        "Personal",
+        "400"
+      ]
+    ],
+    "Knowledge Tours": [
+      [
+        "Domestic",
+        "16",
+        "-",
+        "400"
+      ],
+      [
+        "International",
+        "16",
+        "-",
+        "800"
+      ]
     ]
   },
   "Textiles and Apparel": {
     "Functional": [
-      ["Textile Production and Manufacturing", "17", "Personal", "88"],
-      ["Fashion Retail Management", "14", "Personal", "65"],
-      ["Supply Chain Management in Apparel", "12", "Personal", "93"],
-      ["Sustainable Practices in Textiles", "15", "Personal", "77"],
-      ["Fabric Quality Control and Testing", "18", "Personal", "84"],
-      ["Inventory and Warehousing Management", "13", "Personal", "69"],
-      ["Global Sourcing and Procurement", "16", "Personal", "91"],
-      ["Cost Management in Apparel Production", "11", "Personal", "58"]
+      [
+        "Sustainable Sourcing and Production",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Demand Forecasting in Fashion Retail",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Lean Manufacturing in Textiles",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Cost Optimization in Production",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Market Analysis and Consumer Insights",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Sales and Merchandising Strategies",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Product Lifecycle Management",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Fashion Trend Analysis",
+        "4",
+        "Personal",
+        "500"
+      ]
     ],
     "Technical": [
-      ["Computer-Aided Design for Fashion", "15", "Personal", "86"],
-      ["Garment Manufacturing Techniques", "18", "Personal", "73"],
-      ["Quality Management Systems", "13", "Personal", "95"],
-      ["Automation in Textile Production", "16", "Personal", "67"],
-      ["Sustainable Fabric Technology", "12", "Personal", "89"],
-      ["Dyeing and Printing Techniques", "17", "Personal", "78"],
-      ["Digital Tools in Apparel Supply Chain", "14", "Personal", "92"],
-      ["Textile Technology Innovations", "11", "Personal", "81"]
+      [
+        "3D Fashion Design and Virtual Sampling with CLO 3D",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Fabric Quality Assessment using TensorFlow and AI Vision",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Inventory Management Automation with ApparelMagic",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Textile Lifecycle Management with Centric PLM",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Carbon Footprint Reduction using GaBi Software",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "IoT-Driven Textile Production with Sewio RTLS",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Sustainable Sourcing through Higg Index Analysis",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Supply Chain Monitoring with SAP Apparel & Footwear (SAP AFS)",
+        "5",
+        "Personal",
+        "600"
+      ]
     ],
     "Strategy": [
-      ["Computer-Aided Design for Fashion", "15", "Personal", "86"],
-      ["Garment Manufacturing Techniques", "18", "Personal", "73"],
-      ["Quality Management Systems", "13", "Personal", "95"],
-      ["Automation in Textile Production", "16", "Personal", "67"],
-      ["Sustainable Fabric Technology", "12", "Personal", "89"],
-      ["Dyeing and Printing Techniques", "17", "Personal", "78"],
-      ["Digital Tools in Apparel Supply Chain", "14", "Personal", "92"],
-      ["Textile Technology Innovations", "11", "Personal", "81"]
+      [
+        "Global Expansion in Emerging Markets",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Capital Allocation for Brand Growth",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Sustainable Brand Positioning",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Partnerships for Market Penetration",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Product Diversification Strategies",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Risk Management for International Markets",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Customer-Centric Product Strategies",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Supply Chain Resilience Strategies",
+        "4",
+        "Personal",
+        "400"
+      ]
+    ],
+    "Personal": [
+      [
+        "Advanced Financial Planning",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Risk and Asset Management",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Leadership Development for Global Growth",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Personal Branding for Family Business Leaders",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Crisis Management and Adaptability",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Building Corporate Responsibility Initiatives",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Time and Task Management",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Wealth and Portfolio Management",
+        "4",
+        "Personal",
+        "400"
+      ]
+    ],
+    "Knowledge Tours": [
+      [
+        "Domestic",
+        "16",
+        "-",
+        "400"
+      ],
+      [
+        "International",
+        "16",
+        "-",
+        "800"
+      ]
+    ]
+  },
+  "Retail": {
+    "Functional": [
+      [
+        "Retail Merchandising and Inventory Control",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Sales Operations Management",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Retail Workforce Optimization",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Product Pricing and Profitability Analysis",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Supplier and Vendor Management",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Multi-Channel Sales Strategies",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Store Layout and Visual Merchandising",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Consumer Behavior Analysis",
+        "4",
+        "Personal",
+        "500"
+      ]
+    ],
+    "Technical": [
+      [
+        "E-commerce Platform Optimization with Magento",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Supply Chain Management with Oracle Retail",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Inventory Optimization with RELEX Solutions",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Omnichannel Integration",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "AI-Driven Customer Recommendations",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Retail IoT for In-store Analytics",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Retail Forecasting with Blue Yonder",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Augmented Reality for Enhanced Shopping Experience",
+        "5",
+        "Personal",
+        "600"
+      ]
+    ],
+    "Strategy": [
+      [
+        "Market Expansion Strategies for Emerging Markets",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "M&A in Retail for Brand Growth",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Capital Allocation for Multi-Channel Growth",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Risk and Compliance in Global Retail",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Investment in New Market Trends",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Partnerships for Market Diversification",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Customer Retention Strategies",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Driving Revenue through Digital Innovations",
+        "4",
+        "Personal",
+        "400"
+      ]
+    ],
+    "Personal": [
+      [
+        "Strategic Financial Planning",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Risk Management and Crisis Preparedness",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Building Customer-Centric Leadership",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Time Management for Retail Leaders",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Personal Branding for Entrepreneurs",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Stakeholder Engagement and Community Building",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Setting Personal KPIs for Success",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Wealth Management for Family Business Owners",
+        "4",
+        "Personal",
+        "400"
+      ]
+    ],
+    "Knowledge Tours": [
+      [
+        "Domestic",
+        "16",
+        "-",
+        "400"
+      ],
+      [
+        "International",
+        "16",
+        "-",
+        "800"
+      ]
+    ]
+  },
+  "Construction and Real Estate": {
+    "Functional": [
+      [
+        "Project Management Essentials in Real Estate",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Market Analysis and Site Selection",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Budgeting and Financial Control",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Real Estate Marketing Strategies",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Supply Chain and Procurement",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Quality Control and Assurance",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Labor and Workforce Management",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Legal and Regulatory Compliance",
+        "4",
+        "Personal",
+        "500"
+      ]
+    ],
+    "Technical": [
+      [
+        "Building Information Modeling (BIM) with Autodesk Revit",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Site Analysis using GIS Software",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Project Management Software (PMIS) Applications",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Construction Robotics and Automation",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Green Building Technology",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Real Estate Analytics with CoreLogic",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Modular Construction Innovations",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Digital Twin Technology in Real Estate",
+        "5",
+        "Personal",
+        "600"
+      ]
+    ],
+    "Strategy": [
+      [
+        "Real Estate Portfolio Diversification",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "M&A for Growth in Real Estate",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Sustainable Development Strategy",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Expansion into New Real Estate Markets",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Regulatory Strategy for Urban Planning",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Capital Allocation for Real Estate Ventures",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Green Building Investment Strategies",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Portfolio Management for Multi-Asset Holdings",
+        "4",
+        "Personal",
+        "400"
+      ]
+    ],
+    "Personal": [
+      [
+        "Capital Allocation and Wealth Management",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Crisis Management for Real Estate Leaders",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Negotiation Skills for High-Value Deals",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Leadership Skills for Family Business Owners",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Stakeholder Engagement in Real Estate Projects",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Personal Risk Management in Property Investments",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Succession and Estate Planning",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Developing Resilience in Competitive Markets",
+        "4",
+        "Personal",
+        "400"
+      ]
+    ],
+    "Knowledge Tours": [
+      [
+        "Domestic",
+        "16",
+        "-",
+        "400"
+      ],
+      [
+        "International",
+        "16",
+        "-",
+        "800"
+      ]
+    ]
+  },
+  "Logistics and Supply Chain": {
+    "Functional": [
+      [
+        "Warehouse and Inventory Optimization",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Logistics Cost Reduction Strategies",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Supplier and Vendor Management",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Fleet Management Optimization",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Route Planning and Scheduling",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Risk Management in Supply Chain",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Sustainable Logistics",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Reverse Logistics Management",
+        "4",
+        "Personal",
+        "500"
+      ]
+    ],
+    "Technical": [
+      [
+        "AI-Driven Demand Planning with SAP IBP",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Real-time Inventory Tracking with RFID",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Logistics Automation with Blue Yonder",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Transportation Management Software (TMS) with Descartes",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Blockchain in Supply Chain Transparency",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Warehouse Robotics",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Predictive Analytics in Logistics",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Cloud-based Freight Management",
+        "5",
+        "Personal",
+        "600"
+      ]
+    ],
+    "Strategy": [
+      [
+        "Global Supply Chain Expansion Strategies",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Risk Mitigation in Global Sourcing",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Partnerships and Alliances for Expansion",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Capital Allocation in Supply Chain Investments",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Mergers and Acquisitions for Supply Chain Growth",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Sustainability in Supply Chain Strategy",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Regulatory Compliance for International Logistics",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Market Diversification through Logistics Innovation",
+        "4",
+        "Personal",
+        "400"
+      ]
+    ],
+    "Personal": [
+      [
+        "Advanced Financial Planning",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Crisis Management in Supply Chain",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Leadership for Supply Chain Leaders",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Strategic Risk Management",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Building Resilience in Leadership",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Wealth Management for Supply Chain Owners",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Developing a Personal Brand",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Stakeholder Engagement and Community Building",
+        "4",
+        "Personal",
+        "400"
+      ]
+    ],
+    "Knowledge Tours": [
+      [
+        "Domestic",
+        "16",
+        "-",
+        "400"
+      ],
+      [
+        "International",
+        "16",
+        "-",
+        "800"
+      ]
+    ]
+  },
+  "Chemicals and Petrochemicals": {
+    "Functional": [
+      [
+        "Inventory and Demand Forecasting",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Supplier Management in Chemicals",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Chemical Waste Management",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Sales and Distribution in Petrochemicals",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Logistics and Hazardous Material Handling",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Product Quality Control and Assurance",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Raw Material Sourcing",
+        "4",
+        "Personal",
+        "500"
+      ],
+      [
+        "Market Analysis for Chemical Products",
+        "4",
+        "Personal",
+        "500"
+      ]
+    ],
+    "Technical": [
+      [
+        "Advanced Process Control (APC) Systems",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Simulation Technology for Chemical Processes",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Chemical Process Simulation with Aspen Plus",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "IoT for Environmental Monitoring",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Advanced SCADA Systems",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Remote Monitoring in Hazardous Environments",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "Lab Information Management Systems (LIMS)",
+        "5",
+        "Personal",
+        "600"
+      ],
+      [
+        "3D Modeling for Plant Optimization",
+        "5",
+        "Personal",
+        "600"
+      ]
+    ],
+    "Strategy": [
+      [
+        "Expansion into Emerging Markets",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Risk Management in Petrochemicals",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Capital Allocation for Plant Expansion",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "M&A Strategies in Petrochemicals",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Innovation in Product Development",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Digital Transformation Strategy",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Resource Management in Family-owned Enterprises",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Cost Optimization in Plant Operations",
+        "4",
+        "Personal",
+        "400"
+      ]
+    ],
+    "Personal": [
+      [
+        "Financial Planning for Capital-Intensive Businesses",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Crisis Leadership in Chemical Industry",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Developing Adaptable Leadership Skills",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Advanced Negotiation Techniques",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Portfolio Management for Family Wealth",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Personal Branding in Niche Markets",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Stakeholder Engagement Skills",
+        "4",
+        "Personal",
+        "400"
+      ],
+      [
+        "Developing Resilience in Competitive Markets",
+        "4",
+        "Personal",
+        "400"
+      ]
+    ],
+    "Knowledge Tours": [
+      [
+        "Domestic",
+        "16",
+        "-",
+        "400"
+      ],
+      [
+        "International",
+        "16",
+        "-",
+        "800"
+      ]
     ]
   }
 }
